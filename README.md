@@ -1,7 +1,7 @@
 -----------------------------------------2º Semestre-----------------------------------------------
 -----------------------------------------Última Lista----------------------------------------------
 
-Lista9 exe1: https://kenzowy.github.io/FrontEnd_2026/Lista 9 Exercício 1.html)
+Lista9 exe1: https://kenzowy.github.io/FrontEnd_2026/Lista_9_Exercício_1.html)
 
 Lista9 exe2: https://github.com/kenzowy/FrontEnd_2026/blob/main/Lista%209%20Exerc%C3%ADcio%202.html
 
